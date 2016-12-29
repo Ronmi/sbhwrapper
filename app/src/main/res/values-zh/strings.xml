@@ -4,4 +4,7 @@
     <string name="ask_perm_button">設定通知存取權</string>
     <string name="we_need_notify_perm">這個工具需要通知存取權才能正常使用</string>
     <string name="need_perm_title">需要通知存取權</string>
+    <string name="ext_conf_text">通知轉發工具設定</string>
+    <string name="tts_prefix">有新的通知</string>
+    <string name="service_name">SBH轉發通知服務</string>
 </resources>

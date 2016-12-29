@@ -3,4 +3,7 @@
     <string name="ask_perm_button">Notification Access Setting</string>
     <string name="we_need_notify_perm">This extension needs permission to access notifications.</string>
     <string name="need_perm_title">Need additional permission</string>
+    <string name="ext_conf_text">SBHWrapper Settings</string>
+    <string name="tts_prefix">New notification event</string>
+    <string name="service_name">SBHWrapper Notification Accessing Service</string>
 </resources>
