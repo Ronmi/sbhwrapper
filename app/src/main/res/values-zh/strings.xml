@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SBH通知轉發工具</string>
+    <string name="ask_perm_button">設定通知存取權</string>
+    <string name="we_need_notify_perm">這個工具需要通知存取權才能正常使用</string>
+    <string name="need_perm_title">需要通知存取權</string>
+</resources>
